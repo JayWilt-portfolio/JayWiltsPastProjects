@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+	<head >
+		<meta charset="utf-8">
+		<title>
+			Goldenrod Steakhouse About Us
+		</title>
+	</head>
+	<body style="background-color:#049B14">
+		<header style=color:#EAE911> 
+			<h1>Welcome to Goldenrod Steakhouse</h1>
+		</header>
+		<nav>
+
+		</nav>
+		<main>
+			<p style=color:#EAE911>The Goldenrod Steakhouse is a place of comfort and friends. A rustic farmhouse aesthetic with comfortable seats awaits you. Everything from the appetizers to the deserts are made fresh. All ingredients used in the steakhouse are bought locally and will satisfy even the pickiest of eaters. 
+			</p>
+			<p style=color:#EAE911>Goldenrod prides itself on being a family friendly relaxing restaurant. We serve all walks of life and have some fantastic staff waiting to greet you as you come through the door. The Steakhouse sits just a few short miles off the highway and provides a relaxing place to unwind and enjoy a meal with those close to you. We hope to see you soon and again welcome to the Goldenrod Steakhouse.
+			</p>
+		</main>
+		<footer>
+			<h3 style=color:#EAE911>Designed by: Jay Wilt
+			<br />
+			Revised: 04.28.2022
+			</h3>
+		</footer>
+	</body>
+</html>

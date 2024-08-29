@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+	<head >
+		<meta charset="utf-8">
+		<title>
+			Goldenrod Steakhouse-Chef Tom
+		</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	</head>
+	<body>
+		<header> 
+			<img src="images/logo.gif" alt="Goldenrod Steakhouse Logo" width="200" height="200"/>
+			<h1>Meet Goldenrod's very own Chef Tom!</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home Page</a></li>
+				<li><a href="aboutus.html">About Us</a></li>
+				<li><a href="history.html">History</a></li>
+				<li><a href="menu.html">menu</a></li>
+				<li><a href="contactus.html">Contact Us</a></li>
+				<li><a href="chef.html">Chef's</a></li>
+			</ul>
+		</nav>
+		<main>
+			<p>Tom grew up in Hart County, KY. During his youth, he remembers being in the kitchen with his grandma who taught him how to cook from an early age. When Tom was in high school his love for cooking took off during home economics and blossomed into a career goal. Tom attended Western Kentucky University’s culinary arts program where he graduated with a Bachelor of Culinary Management. Tom then came back to Hart County Kentucky and began working for Goldenrod as a sous chef. Tom graciously became the head chef after 3 years and has been with us his whole career.
+			</p>
+			
+		</main>
+		<br />
+		<footer>
+			<h3>Designed by: Jay Wilt
+			<br />
+			Revised: 06.15.2022
+			</h3>
+		</footer>
+	</body>
+</html>
